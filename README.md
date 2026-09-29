@@ -2,6 +2,10 @@
 
 A lightweight, responsive personal portfolio built with plain HTML, CSS, and JavaScript.
 
+## Live site
+
+https://meg1901.github.io/meghana-portfolio/
+
 ## Preview locally
 
 Open `index.html` directly in a browser, or serve the folder locally:
@@ -14,20 +18,26 @@ Then visit `http://localhost:8000`.
 
 ## Deploy
 
-This site is static and can be deployed directly to:
-- GitHub Pages
-- Netlify
-- Vercel
+This site is static and can be deployed directly to GitHub Pages, Netlify, or Vercel. No build command is required.
 
-No build command is required.
+For GitHub Pages, publish the `main` branch from `/ (root)`.
 
 ## Main files
 
-- `index.html` — portfolio content and structure
+- `index.html` — portfolio content, structure, and LinkedIn/Open Graph preview metadata
 - `styles.css` — lavender/periwinkle visual system and responsive layout
 - `script.js` — mobile nav, project filters, and subtle scroll reveals
-- `assets/meghana-profile.webp` — optimized profile image
+- `assets/meghana-profile.webp` — profile image
+- `assets/portfolio-preview.jpg` — 1200×630 social sharing / LinkedIn preview image
 - `assets/Meghana_Baladari_Resume.pdf` — current resume download
+- `assets/projects/` — project visuals
+
+## Current updates
+
+- AWS Certified AI Practitioner added to Certifications
+- Coincent internship added to Experience to match the resume chronology
+- Air Quality project visual corrected to use only supported project facts (no unsupported PM2.5, R², or RMSE values)
+- Open Graph and Twitter social-preview metadata added for cleaner LinkedIn sharing
 
 ## Easy edits
 
@@ -37,4 +47,4 @@ Search `index.html` for:
 - `Featured work` to add or reorder case studies
 - `Certifications` to add newly completed credentials
 
-The portfolio intentionally does **not** list planned certifications until they are completed.
+The portfolio lists completed certifications only.
