@@ -1,7 +1,6 @@
 # Meghana Baladari — Portfolio
 
-A lightweight, responsive personal portfolio built with plain HTML, CSS, and JavaScript.
-
+A responsive personal portfolio showcasing my data science, machine learning, AI, and analytics projects, built with HTML, CSS, and JavaScript.
 ## Live site
 
 https://meg1901.github.io/meghana-portfolio/
