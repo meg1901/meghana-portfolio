@@ -1,4 +1,4 @@
-# Meghana Baladari — Portfolio
+# Meghana Baladari - Portfolio
 
 A responsive personal portfolio showcasing my data science, machine learning, AI, and analytics projects, built with HTML, CSS, and JavaScript.
 ## Live site
